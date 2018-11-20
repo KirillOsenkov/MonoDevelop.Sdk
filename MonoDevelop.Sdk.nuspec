@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MonoDevelop.Sdk</id>
+    <title>MonoDevelop SDK</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <version>1.0.3</version>
+    <language>en-US</language>
+    <licenseUrl>https://github.com/mono/monodevelop/blob/master/main/COPYING</licenseUrl>
+    <projectUrl>https://github.com/mono/monodevelop</projectUrl>
+    <iconUrl>http://www.monodevelop.com/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of MonoDevelop reference assemblies for AddIn authors to reference during the build.</description>
+    <summary>A set of MonoDevelop reference assemblies for AddIn authors to reference during the build.</summary>
+    <tags>MonoDevelop AddIn Addins SDK</tags>
+    <dependencies>
+      <dependency id="Mono.Addins" version="1.3.8" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="MonoDevelop.Core.dll" target="lib\net471" />
+    <file src="MonoDevelop.Ide.dll" target="lib\net471" />
+    <file src="MonoDevelop.SourceEditor.dll" target="lib\net471" />
+    <file src="MonoDevelop.CSharpBinding.dll" target="lib\net471" />
+  </files>
+</package>
