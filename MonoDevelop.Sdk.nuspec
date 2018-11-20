@@ -20,6 +20,7 @@
   </metadata>
   <files>
     <file src="mdtool.exe" target="lib\net471" />
+    <file src="Microsoft.CodeAnalysis.CSharp.dll" target="lib\net471" />
     <file src="Microsoft.VisualStudio.CodingConventions.dll" target="lib\net471" />
     <file src="Microsoft.VisualStudio.Composition.dll" target="lib\net471" />
     <file src="Microsoft.VisualStudio.CoreUtility.dll" target="lib\net471" />
@@ -32,6 +33,7 @@
     <file src="Microsoft.VisualStudio.Text.UI.dll" target="lib\net471" />
     <file src="Microsoft.VisualStudio.Threading.dll" target="lib\net471" />
     <file src="Microsoft.VisualStudio.Validation.dll" target="lib\net471" />
+    <file src="Mono.Addins.dll" target="lib\net471" />
     <file src="MonoDevelop.Core.dll" target="lib\net471" />
     <file src="MonoDevelop.CSharpBinding.AspNet.dll" target="lib\net471" />
     <file src="MonoDevelop.CSharpBinding.Autotools.dll" target="lib\net471" />
@@ -42,5 +44,6 @@
     <file src="Newtonsoft.Json.dll" target="lib\net471" />
     <file src="System.Collections.Immutable.dll" target="lib\net471" />
     <file src="System.Reflection.Metadata.dll" target="lib\net471" />
+    <file src="Xwt.dll" target="lib\net471" />
   </files>
 </package>
