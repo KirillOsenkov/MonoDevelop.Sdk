@@ -5,7 +5,7 @@
     <title>MonoDevelop SDK</title>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <language>en-US</language>
     <licenseUrl>https://github.com/mono/monodevelop/blob/master/main/COPYING</licenseUrl>
     <projectUrl>https://github.com/mono/monodevelop</projectUrl>
@@ -19,6 +19,8 @@
     </dependencies>
   </metadata>
   <files>
+    <file src="glib-sharp.dll" target="lib\net471" />
+    <file src="gtk-sharp.dll" target="lib\net471" />
     <file src="mdtool.exe" target="lib\net471" />
     <file src="Microsoft.CodeAnalysis.CSharp.dll" target="lib\net471" />
     <file src="Microsoft.VisualStudio.CodingConventions.dll" target="lib\net471" />

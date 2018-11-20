@@ -6,6 +6,8 @@ xcopy C:\md1\main\build\addins\CSharpBinding\MonoDevelop.CSharpBinding.Autotools
 xcopy C:\md1\main\build\AddIns\CSharpBinding\MonoDevelop.CSharpBinding.dll signed
 xcopy C:\md1\main\build\AddIns\DisplayBindings\SourceEditor\MonoDevelop.SourceEditor.dll signed
 xcopy C:\md1\main\build\AddIns\MonoDevelop.DotNetCore\MonoDevelop.DotNetCore.dll signed
+xcopy "C:\Program Files (x86)\GtkSharp\2.12\lib\gtk-sharp-2.0\glib-sharp.dll" signed
+xcopy "C:\Program Files (x86)\GtkSharp\2.12\lib\gtk-sharp-2.0\gtk-sharp.dll" signed
 xcopy C:\md1\main\build\bin\mdtool.exe signed
 xcopy C:\md1\main\build\bin\Microsoft.CodeAnalysis.CSharp.dll signed
 xcopy C:\md1\main\build\bin\Microsoft.VisualStudio.CodingConventions.dll signed
