@@ -23,5 +23,6 @@
     <file src="MonoDevelop.Ide.dll" target="lib\net471" />
     <file src="MonoDevelop.SourceEditor.dll" target="lib\net471" />
     <file src="MonoDevelop.CSharpBinding.dll" target="lib\net471" />
+    <file src="mdtool.exe" target="lib\net471" />
   </files>
 </package>

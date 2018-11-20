@@ -1,10 +1,11 @@
 rmdir /s /q signed
 md signed
 
-xcopy C:\monodevelop\main\build\bin\MonoDevelop.Core.dll signed
-xcopy C:\monodevelop\main\build\bin\MonoDevelop.Ide.dll signed
-xcopy C:\monodevelop\main\build\AddIns\CSharpBinding\MonoDevelop.CSharpBinding.dll signed
-xcopy C:\monodevelop\main\build\AddIns\DisplayBindings\SourceEditor\MonoDevelop.SourceEditor.dll signed
+xcopy C:\md1\main\build\bin\mdtool.exe signed
+xcopy C:\md1\main\build\bin\MonoDevelop.Core.dll signed
+xcopy C:\md1\main\build\bin\MonoDevelop.Ide.dll signed
+xcopy C:\md1\main\build\AddIns\CSharpBinding\MonoDevelop.CSharpBinding.dll signed
+xcopy C:\md1\main\build\AddIns\DisplayBindings\SourceEditor\MonoDevelop.SourceEditor.dll signed
 
 pushd signed
 
