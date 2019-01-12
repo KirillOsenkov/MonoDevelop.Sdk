@@ -5,7 +5,7 @@
     <title>MonoDevelop SDK</title>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <language>en-US</language>
     <licenseUrl>https://github.com/mono/monodevelop/blob/master/main/COPYING</licenseUrl>
     <projectUrl>https://github.com/mono/monodevelop</projectUrl>
@@ -19,33 +19,32 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="glib-sharp.dll" target="lib\net471" />
-    <file src="gtk-sharp.dll" target="lib\net471" />
-    <file src="mdtool.exe" target="lib\net471" />
-    <file src="Microsoft.CodeAnalysis.CSharp.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.CodingConventions.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Composition.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.CoreUtility.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Language.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Language.Intellisense.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Language.StandardClassification.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Text.Data.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Text.Implementation.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Text.Logic.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Text.UI.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Threading.dll" target="lib\net471" />
-    <file src="Microsoft.VisualStudio.Validation.dll" target="lib\net471" />
-    <file src="Mono.Addins.dll" target="lib\net471" />
-    <file src="MonoDevelop.Core.dll" target="lib\net471" />
-    <file src="MonoDevelop.CSharpBinding.AspNet.dll" target="lib\net471" />
-    <file src="MonoDevelop.CSharpBinding.Autotools.dll" target="lib\net471" />
-    <file src="MonoDevelop.CSharpBinding.dll" target="lib\net471" />
-    <file src="MonoDevelop.DotNetCore.dll" target="lib\net471" />
-    <file src="MonoDevelop.Ide.dll" target="lib\net471" />
-    <file src="MonoDevelop.SourceEditor.dll" target="lib\net471" />
-    <file src="Newtonsoft.Json.dll" target="lib\net471" />
-    <file src="System.Collections.Immutable.dll" target="lib\net471" />
-    <file src="System.Reflection.Metadata.dll" target="lib\net471" />
-    <file src="Xwt.dll" target="lib\net471" />
+    <file src="glib-sharp.dll" target="lib\net472" />
+    <file src="gtk-sharp.dll" target="lib\net472" />
+    <file src="mdtool.exe" target="lib\net472" />
+    <file src="Microsoft.CodeAnalysis.CSharp.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.CodingConventions.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Composition.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.CoreUtility.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Language.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Language.Intellisense.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Language.StandardClassification.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Text.Data.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Text.Logic.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Text.UI.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Threading.dll" target="lib\net472" />
+    <file src="Microsoft.VisualStudio.Validation.dll" target="lib\net472" />
+    <file src="Mono.Addins.dll" target="lib\net472" />
+    <file src="MonoDevelop.Core.dll" target="lib\net472" />
+    <file src="MonoDevelop.CSharpBinding.AspNet.dll" target="lib\net472" />
+    <file src="MonoDevelop.CSharpBinding.Autotools.dll" target="lib\net472" />
+    <file src="MonoDevelop.CSharpBinding.dll" target="lib\net472" />
+    <file src="MonoDevelop.DotNetCore.dll" target="lib\net472" />
+    <file src="MonoDevelop.Ide.dll" target="lib\net472" />
+    <file src="MonoDevelop.SourceEditor.dll" target="lib\net472" />
+    <file src="Newtonsoft.Json.dll" target="lib\net472" />
+    <file src="System.Collections.Immutable.dll" target="lib\net472" />
+    <file src="System.Reflection.Metadata.dll" target="lib\net472" />
+    <file src="Xwt.dll" target="lib\net472" />
   </files>
 </package>
