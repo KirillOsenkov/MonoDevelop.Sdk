@@ -5,7 +5,7 @@
     <title>MonoDevelop SDK</title>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
     <language>en-US</language>
     <licenseUrl>https://github.com/mono/monodevelop/blob/master/main/COPYING</licenseUrl>
     <projectUrl>https://github.com/mono/monodevelop</projectUrl>
